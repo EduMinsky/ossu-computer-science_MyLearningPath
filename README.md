@@ -7,5 +7,5 @@ I will follow the [Open Source Society University] (https://cs.ossu.dev/) self-s
 
 
 ## 📘 Course Roadmap
-| Class                                                       | Status       | Completion Date
-|-------------------------------------------------------------|--------------|-----------------|
+| Class                                                       | Status       | Start Date      | Completion Date |
+|-------------------------------------------------------------|--------------|-----------------|-----------------|
